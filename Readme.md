@@ -29,44 +29,6 @@ A **high-tech, cyberpunk-inspired TO-DO list application** with holographic vi
 *   **Empty State Animation**: Visual feedback when no tasks are present.
     
 
-🎨 Screenshots
---------------
-
-_(Optional: Include screenshots of your app here if available)_
-
-🛠️ Installation & Usage
-------------------------
-
-1.  **Clone the repository**
-    
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone   cd futuristic-todo-list   `
-
-1.  **Open index.html in a browser**
-    
-
-> No backend or server is required. Fully client-side.
-
-1.  **Add Tasks**
-    
-    *   Enter your task in the input box.
-        
-    *   Select priority (Low, Medium, High).
-        
-    *   Click **DEPLOY TASK** or press Enter.
-        
-2.  **Manage Tasks**
-    
-    *   Click **COMPLETE/REACTIVATE** to toggle task status.
-        
-    *   Click **DELETE** to remove a task permanently.
-        
-3.  **View Stats**
-    
-    *   Track **Total Tasks**, **Completed**, **Pending**, and **Success Rate** in real-time.
-        
-
-
 
 💻 Technologies Used
 --------------------
